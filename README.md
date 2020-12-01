@@ -11,3 +11,7 @@
   - Contains our multi-label classifier model which was successfully trained and able to output results on new test images.
 - ONNX Model Export.ipynb
   - Outputs our classifier model to an ONNX format for cross-platform support.
+
+## Links
+- [Report](https://drive.google.com/file/d/1PLG8Y0Vbf6052_fdSjbdKTrxFVvSBSRM/view?usp=sharing)
+- [Presentation slides](https://docs.google.com/presentation/d/1w8ndVuESFwqNvVC0A68H8Q7QLeqUiIetR_mT7SJamHk/edit?usp=sharing)
